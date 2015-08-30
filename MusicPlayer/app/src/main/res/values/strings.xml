@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">Omii 021-6598-625</string>
+    <string name="text2">unknown</string>
+    <string name="ic_headline">ic_headline</string>
+    <string name="ic_search">ic_search</string>
+</resources>
